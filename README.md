@@ -1,4 +1,4 @@
-#Number Guessing Game
+# Number Guessing Game
 
 This is a simple number guessing game where the computer chooses a random number between 1 and 20 and the player has 6 attempts to guess the number correctly.
 #How to Play
@@ -11,7 +11,7 @@ This is a simple number guessing game where the computer chooses a random number
     The computer will provide feedback on whether your guess was too high or too low.
     If you guess the number correctly within 6 attempts, you win the game. Otherwise, you lose.
 
-#Code Explanation
+# Code Explanation
 
 The code starts by importing the random module, which is used to generate a random number between 1 and 20.
 
