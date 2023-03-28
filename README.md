@@ -1,7 +1,7 @@
 # Number Guessing Game
 
 This is a simple number guessing game where the computer chooses a random number between 1 and 20 and the player has 6 attempts to guess the number correctly.
-#How to Play
+# How to Play
 
     1-Run the script in a Python environment.
     2-Enter your name when prompted.
