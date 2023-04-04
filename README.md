@@ -1,26 +1,25 @@
-# Number Guessing Game
+# Python Games
 
-This is a simple number guessing game where the computer chooses a random number between 1 and 20 and the player has 6 attempts to guess the number correctly.
-# How to Play
+Este é um repositório contendo vários jogos simples escritos em Python, como parte do meu aprendizado em Python. Sinta-se livre para clonar este repositório e jogar os jogos você mesmo!
 
-    1-Run the script in a Python environment.
-    2-Enter your name when prompted.
-    3-The computer will choose a random number between 1 and 20.
-    4:You have 6 attempts to guess the number correctly.
-    5-Enter your guess when prompted.
-    The computer will provide feedback on whether your guess was too high or too low.
-    If you guess the number correctly within 6 attempts, you win the game. Otherwise, you lose.
+## Jogos disponíveis
 
-# Code Explanation
+- **Guess the Number**: Um jogo onde o jogador tem que adivinhar um número aleatório gerado pelo computador.
+- **Dragon Realm**: O jogador escolhe entre duas cavernas para encontrar o tesouro do dragão. Mas cuidado, uma caverna tem um dragão que vai te devorar!
+- **Coinflip**: Um jogo simples de cara ou coroa. O jogador escolhe cara ou coroa e o computador joga uma moeda para determinar o resultado.
 
-The code starts by importing the random module, which is used to generate a random number between 1 and 20.
+## Requisitos
 
-The player's name is requested and stored in the myName variable.
+Para jogar esses jogos, você precisa ter o Python instalado em seu computador. Você pode baixar a versão mais recente do [site oficial do Python](https://www.python.org/downloads/).
 
-A random number is generated using the random.randint() function and stored in the number variable.
+## Como jogar
 
-The game loop starts, where the player is prompted to enter their guess and provided feedback on whether the guess was too high or too low.
+Cada jogo tem seu próprio arquivo .py. Abra o arquivo em um editor de texto e execute o script Python para jogar o jogo correspondente. Siga as instruções na tela para jogar cada jogo.
 
-If the player guesses the number correctly within 6 attempts, the loop breaks and a congratulatory message is displayed.
+## Contribuindo
 
-If the player is unable to guess the number within 6 attempts, a message is displayed showing the correct number.
+Sinta-se livre para contribuir com novos jogos ou melhorias nos jogos existentes. Basta fazer um fork deste repositório, fazer suas alterações e enviar um pull request.
+
+## Licença
+
+Este repositório é licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
