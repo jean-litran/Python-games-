@@ -20,6 +20,3 @@ Cada jogo tem seu próprio arquivo .py. Abra o arquivo em um editor de texto e e
 
 Sinta-se livre para contribuir com novos jogos ou melhorias nos jogos existentes. Basta fazer um fork deste repositório, fazer suas alterações e enviar um pull request.
 
-## Licença
-
-Este repositório é licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
