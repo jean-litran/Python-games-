@@ -7,6 +7,7 @@ Este é um repositório contendo vários jogos simples escritos em Python, como 
 - **Guess the Number**: Um jogo onde o jogador tem que adivinhar um número aleatório gerado pelo computador.
 - **Dragon Realm**: O jogador escolhe entre duas cavernas para encontrar o tesouro do dragão. Mas cuidado, uma caverna tem um dragão que vai te devorar!
 - **Coinflip**: Um jogo simples de cara ou coroa. O jogador escolhe cara ou coroa e o computador joga uma moeda para determinar o resultado.
+- **Hangman**: Um jogo onde o jogador tem que adivinhar a palavra secreta antes que o boneco seja enforcado.
 
 ## Requisitos
 
@@ -20,3 +21,6 @@ Cada jogo tem seu próprio arquivo .py. Abra o arquivo em um editor de texto e e
 
 Sinta-se livre para contribuir com novos jogos ou melhorias nos jogos existentes. Basta fazer um fork deste repositório, fazer suas alterações e enviar um pull request.
 
+---
+
+Obrigado pela leitura, pessoal,  Espero que vocês aproveitem os jogos.
